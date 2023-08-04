@@ -2,33 +2,11 @@
 
 I'm a Full-Stack Developer on the hunt for the next big tech adventure. I'm all about innovation and creating practical yet exciting solutions. Whether it's building interactive web applications or developing intelligent algorithms, I'm always up for a new challenge.
 
-## My Projects 💼
-
-### Chat-Bot Engineer (Freelancer) 🤖
-- Successfully designed and implemented an AI chat-bot that reached 40,000 users and processed 100,000 messages daily. 
-- Utilized natural language processing algorithms like GPT-NeoX and image recognition algorithms.
-- Acquired extensive knowledge of the Discord and Telegram APIs through various projects. 
-- Skilled in web and data scraping using tools like JSDom and Selenium.
-
-### Front-end Developer (Next-GEN.dev) 🎨
-- Created and maintained high-quality websites for clients. 
-- Developed websites using modern technologies like Svelte and React with TypeScript. 
-- Implemented server-side rendering (SSR) optimization techniques to improve website SEO.
-
-### Blockchain Developer (Freelancer) 🔗
-- Developed non-fungible token (NFT) projects and generated images with SVG automatically using Solidity. 
-- Set up Linux servers and leveraged OpenCL on a large scale.
-- Integrated crypto-payments for clients.
-
-## My Skills 💻
-- **Frontend:** TypeScript, JavaScript, React.js, SvelteKit, CSS/Sass, Bootstrap
-- **Backend:** Node.js, Linux, Docker, MySQL, MongoDB, GraphQL, Serverless (AWS, CF), PHP, Laravel, Java
-- **Frameworks/Libraries/Tools:** Git, CI/CD, Solidity, Electron, Selenium, Playwright, Inkscape, Figma, Gimp, WordPress
-
 ## Let's Connect! 🤝
+
 If you're looking for a passionate and driven developer to join your team, let's connect! I'm always up for collaborating on exciting projects.
 
-- Shoot me a message on Discord: [algj#1770](https://discord.com/users/969721170272350309)
+- Shoot me a message on Discord: [algj](https://discord.com/users/969721170272350309)
 
 ## PGP 🔑
 
