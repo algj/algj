@@ -6,7 +6,7 @@ I'm a Full-Stack Developer on the hunt for the next big tech adventure. I'm all 
 
 If you're looking for a passionate and driven developer to join your team, let's connect! I'm always up for collaborating on exciting projects.
 
-- Shoot me a message on Discord: [algj](https://discord.com/users/969721170272350309)
+- Shoot me a message on Discord: [algmon](https://discord.com/users/969721170272350309)
 
 ## PGP 🔑
 
