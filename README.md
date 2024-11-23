@@ -2,4 +2,4 @@
 
 I do full-stack development & data extraction.
 
-Langs: PHP, C, TS.
+Langs: C, JS/TS, PHP.
